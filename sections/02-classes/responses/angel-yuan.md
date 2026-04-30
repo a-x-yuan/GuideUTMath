@@ -28,7 +28,7 @@ I took the differential topology prelim in Spring 2024 and it was taught by a ge
 
 ## Grad courses as an undergrad: when and why? (~200 words)
 
-I took 11 grad courses, starting from my sophomore fall. I had mostly run out of undergraduate courses to take, although I ended up re-taking undergraduate algebra that same fall (I had taken undergraduate algebra in high school). I had done a DRP in algebraic topology the semester before I took the prelim course, so I had already learned a solid chunk of the material coming in, and was really wanting to learn more. I was told that it's weird (/neg) on grad admissions to not take grad courses as an undergrad if you want to go to grad school for math. 
+I took 11 grad courses, starting with algebraic topology my sophomore fall. I had mostly run out of undergraduate courses to take, although I ended up re-taking undergraduate algebra that same fall (I had taken undergraduate algebra in high school, but felt that my algebra foundations were lacking). I had done a DRP in algebraic topology the semester before I took the prelim course, so I had already learned a solid chunk of the material coming in and was really wanting to learn more. I was told that it's weird (/neg) on grad admissions to not take grad courses as an undergrad if you want to go to grad school for math. 
 
 ## Reading courses: did you do them, how did they work? (~200 words)
 
@@ -36,4 +36,6 @@ I did a reading course with Irving on vector bundles, but it wasn't really speci
 
 ## One piece of tactical advice about coursework. (~100 words)
 
-I feel like it doesn't really help that much to listen to people's advice on whether courses are easy or hard. People told me that undergrad algebra with Keel would be hard, and that algebraic topology would be hard, and that grad algebra would be hard, and none of those courses were very hard when I took them. Conversely, people told me differential topology would be easy, and that ended up being hell on earth :(
+I feel like it doesn't really help that much to listen to people's advice on whether courses are easy or hard. People told me that undergrad algebra with Keel would be hard, and that algebraic topology would be hard, and that grad algebra would be hard, and none of those courses were very hard when I took them. Conversely, people told me differential topology would be easy, and that ended up being the hardest course for me. 
+
+People say that grad topics courses are easy because they are a low time commitment. This is technically true, but in my experience, you start feeling bad for not understanding the content (which is typically *substantially* harder than prelim classes) and sit around struggling trying to get something out of lectures you barely understand, which is exhausting -- and learning mathematics is an attribution of energy moreso than time.
